@@ -12,3 +12,7 @@ happyHolidayTo() {
   return `Happy ${holiday}, ${name}!`
 }
 
+holidayCountdown() {
+  
+}
+
