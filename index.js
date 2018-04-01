@@ -1,18 +1,18 @@
 // write your code below!
 
-happyHolidays() {
+happyHolidays(); {
   return "Happy holidays!"
 }
 
-happyHolidaysTo(name) {
+happyHolidaysTo(name); {
   return `Happy holidays, ${name}!`
 }
 
-happyHolidayTo() {
+happyHolidayTo(holiday, name); {
   return `Happy ${holiday}, ${name}!`
 }
 
-holidayCountdown() {
+holidayCountdown(); {
   
 }
 
