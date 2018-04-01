@@ -4,7 +4,9 @@ happyHolidays() {
   return "Happy holidays!"
 }
 
-happyHolidaysTo(`Happy Holidays, ${name}!`)
+happyHolidaysTo() {
+  return `Happy holidays, ${name}!`
+}
 
 happyHolidayTo() {
   return `Happy ${holiday}, ${name}!`
