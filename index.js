@@ -13,6 +13,6 @@ happyHolidayTo(holiday, name); {
 }
 
 holidayCountdown(); {
-  
+  return `It/'s ${days} days until ${holiday}!`
 }
 
