@@ -1,6 +1,8 @@
 // write your code below!
 
-happyHolidays("Happy Holidays!")
+happyHolidays() {
+  return "Happy holidays!"
+}
 
 happyHolidaysTo(`Happy Holidays, ${name}!`)
 
